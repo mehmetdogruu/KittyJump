@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 9c1602766ba423f4082c7f696fac433f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1364726050903207877
+    second: "kedi z\u0131plama_0"
+  - first:
+      213: -8541885569664409838
+    second: "kedi z\u0131plama_1"
+  - first:
+      213: -4666885924545935755
+    second: "kedi z\u0131plama_2"
+  - first:
+      213: -3136760990106554201
+    second: "kedi z\u0131plama_3"
+  - first:
+      213: -3325729829023658271
+    second: "kedi z\u0131plama_4"
+  - first:
+      213: -3843997830309917809
+    second: "kedi z\u0131plama_5"
+  - first:
+      213: 2846233401514122558
+    second: "kedi z\u0131plama_6"
+  - first:
+      213: -1635992189162950131
+    second: "kedi z\u0131plama_7"
+  - first:
+      213: -8484806430674789257
+    second: "kedi z\u0131plama_8"
+  - first:
+      213: -7325235790314776174
+    second: "kedi z\u0131plama_9"
+  - first:
+      213: -3470880539382937787
+    second: "kedi z\u0131plama_10"
+  - first:
+      213: -450381691443340788
+    second: "kedi z\u0131plama_11"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "kedi z\u0131plama_0"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1073
+        width: 165
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30513823e48f0de0800000000000000
+      internalID: -1364726050903207877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kedi z\u0131plama_1"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1070
+        width: 186
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f1e1cc450257980800000000000000
+      internalID: -8541885569664409838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kedi z\u0131plama_2"
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1061
+        width: 195
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5764b245af3eb3fb0800000000000000
+      internalID: -4666885924545935755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kedi z\u0131plama_3"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 869
+        width: 154
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0756faf7cf774d0800000000000000
+      internalID: -3136760990106554201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kedi z\u0131plama_4"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 859
+        width: 168
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5998516, y: 0.46238446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eecf1a4752a8d1d0800000000000000
+      internalID: -3325729829023658271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kedi z\u0131plama_5"
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 878
+        width: 215
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b4107f65067aac0800000000000000
+      internalID: -3843997830309917809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kedi z\u0131plama_6"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 691
+        width: 204
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dd91dd23adf7720800000000000000
+      internalID: 2846233401514122558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kedi z\u0131plama_7"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 667
+        width: 190
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02f0a595c9cb49e0800000000000000
+      internalID: -1635992189162950131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kedi z\u0131plama_8"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 679
+        width: 179
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cdda77189ef3a80800000000000000
+      internalID: -8484806430674789257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kedi z\u0131plama_9"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 474
+        width: 142
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2995f460cd8875a90800000000000000
+      internalID: -7325235790314776174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kedi z\u0131plama_10"
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 945
+        width: 40
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49999902, y: 0.5356024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5478348f984f4dfc0800000000000000
+      internalID: -3470880539382937787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kedi z\u0131plama_11"
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 897
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48520932, y: 0.5221582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a1e24ec3cefb9f0800000000000000
+      internalID: -450381691443340788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
