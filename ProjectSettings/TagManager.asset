@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ayaklar
+  - Platform
+  - OlumculPlatform
+  - Olum
   layers:
   - Default
   - TransparentFX
@@ -41,6 +45,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
+  - name: Platform
     uniqueID: 2266471001
+    locked: 0
+  - name: Mama
+    uniqueID: 456058031
+    locked: 0
+  - name: Player
+    uniqueID: 676772101
+    locked: 0
+  - name: UI
+    uniqueID: 1937526735
     locked: 0
